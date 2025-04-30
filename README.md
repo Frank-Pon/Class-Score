@@ -6,7 +6,9 @@
 
 功能使用說明:
 
-執行即輸出班級成績名單、班級各科目平均、通過未通過人數及名單
+執行即:
+輸出班級成績名單、班級各科目平均、通過未通過人數及名單
+輸出列表生成式結果
 
 ✔️ python 3.12
 ✔️ 模組化結構
@@ -15,7 +17,8 @@
 
 ```
 class_score
-    ├─ class.py (主程式)
+    ├─ class.py (班級成績資料模擬練習)
+    ├─ list_comp.py (列表生成式練習)
     ├─ README.md (程式簡介)
     └─ screenshot (畫面截圖 for README)
 ```
@@ -35,3 +38,4 @@ class_score
 這樣練習之後再加上內建函數及函數庫的便捷,相信能大幅改善自己的程式撰寫能力
 
 ![畫面截圖](screenshot/print.png)
+![畫面截圖](screenshot/print2.png)
